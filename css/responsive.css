@@ -1,0 +1,184 @@
+
+
+
+
+@media screen and (max-width:780px) {
+    /* mobile et tablette */
+
+
+    /****banniere*****/
+
+#slider-image{
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+}
+
+#sliderh1{
+    font-size: 1rem;
+    margin-bottom: 50rem;
+}
+
+#sliderh2{
+    font-size: 1rem;
+    margin-bottom: 50rem;
+}
+
+#slider h1{
+    margin-top: -60px;
+}
+
+#slider h2{
+    margin-top: -60px;
+}
+
+
+    /*******cétacé******/
+
+    #cétacé > div {
+        display: block;
+        
+    }
+
+    .size4-5 {
+        font-size: 2rem;
+    }
+
+    #cétacé p {
+      width: 100%;  
+    }
+    /*******le chante des baleines******/
+
+    #communication > div{
+        display: block;
+    }
+ 
+    
+
+    #baleines{
+        font-size: 5rem;
+    }
+
+    #lechant {
+        
+        font-size: 6rem;
+    }
+
+    #txt1 > h3{
+        font-size: 2.5rem;
+    }
+
+    .div1 {
+        margin-right: 9rem;
+    }
+
+    /*****ondocète******/
+    #txt_son{
+        display: block;
+    }
+
+    #txt_son > div > h1 {
+        font-size: 2rem;
+    }
+
+    #txt_son > div > h2 {
+        font-size: 2rem;
+    }
+
+    #txt_son h2{
+        padding-top: 10%;
+    }
+
+    /***mysticètre****/
+    #mysticetres > div{
+        display: block;
+    }
+
+    #h1{
+        font-size: 2rem;
+    }
+
+    .div1 {
+        margin-left: 8rem;
+    }
+
+    .size3 {
+        font-size: 2rem;
+    }
+
+  /****echo cétacé****/
+
+  #echo_cetace > div{
+      display: block ;
+  }
+
+  .echo{
+      font-size: 3rem;
+  }
+
+#echo_cetace h2{
+    padding-top: 10%;
+}
+
+/********section6******/
+.size3-3 {
+    font-size: 2rem;
+}
+
+  }
+
+/*************/
+
+
+  @media screen and (max-width:480px)  {
+    /* mobile */
+
+    #slider-image{
+        height: auto;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    #slider h1{
+        margin-top: -50px;
+    }
+
+    #slider h2{
+        margin-top: -20px;
+    }
+    .size6 {
+        font-size: 2rem;
+     
+    }
+
+    .size5 {
+        font-size: 2rem;
+    }
+    
+     /*******cétacé******/
+
+     #txtcetace > h1 {
+       font-size: 2rem;
+        
+    }
+
+    .div1 {
+        margin: 0;
+    }
+    
+    body{
+        margin: 0;
+    }
+
+
+    /*******le chante des baleines******/
+
+    #txt1 > .size3{
+        font-size: 2rem;
+    }
+    
+  }
+
+
+
+ 
